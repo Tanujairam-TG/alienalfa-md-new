@@ -79,7 +79,7 @@
     "MAIL": {
             "description": "Premium kullanıcı numarası. (Bilmiyorsanız boş bırakınız.)",
             "required": false,
-            "value": "AlienAlfa.YT@gmail.com"
+            "value": "iletisimeke@gmail.com"
         },
     "YOUTUBE": {
             "description": "Youtube Kanal Linki/Bağlantısı (Yok ise boş bırakınız.)",
