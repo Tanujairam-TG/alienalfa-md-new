@@ -165,12 +165,12 @@
             "required": true
         },
     "SESSION_ID": {
-            "description": "Sizin numaranızdan aldığınız Oturum Kimliğinizi buraya ekleyin",
+            "description": "Sizin numaranızdan aldığınız Oturum Kimliğinizi (Session İD) buraya ekleyin",
             "required": true
         },
      
     "ZENS_API": {
-            "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
+            "description": "API İşlevlerini Kullanmak İçin https://zenzapi.xyz adresinden bir API anahtarı alın. (Bilmiyorsanız boş bırakınız.)",
             "required": false,
             "value": "sanzychan01"
         }
