@@ -1,155 +1,155 @@
 
 {
-	"name": "WhatsAppBot-MD",
-	"description": "Fully Costamisable Bot by, Alien-Alfa.",
-	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
+	"name": "AlienAlfaTRmd",
+	"description": "Alien-Alfa'dan Tamamen Tasarruf Edilebilir Bot. Laçin Eke YouTube",
+	"repository": "https://github.com/EkeLachin/AlienAlfaTRmd",
 	"website": "https://small-sharp-tool.com/",
-	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
+	"logo": "https://telegra.ph/file/c6b854dc282340981c3a2.jpg",
 	"keywords": ["multi-device","ＡＬＩＥＮ ＡＬＦＡ"],
 	"stack": "container",
 	"env": { 
     "OWNER": {
-            "description": "Pleas enter Number Of the Owner.",
+            "description": "Lütfen sahibin telefon numarasını giriniz! (Size ait Numara!)",
             "required": false,
-            "value": "447405935255"
+            "value": "905538834272"
         }, 
 	"S_PACK": {
-            "description": "Sticker Pack Name (leave it if you Wish to use the default)",
+            "description": "Çıkartma Paketi Adı (bilmiyorsanız boş bırakınız!)",
             "required": false,
-            "value": "Alien"
+            "value": "+90 553 883 42 72"
         }, 
 	"WORKTYPE": {
-            "description": "change the Work Type (public or private)",
+            "description": "Çalışma tipi (public herkese açık. Ama private sadece siz çalıştırırsınız!)",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
 	"S_AUTHOR": {
-            "description": "Sticker author name. (leave it if you Wish to use the default)",
+            "description": "Çıkartma yazarının adı. (Bilmiyorsanız boş bırakınız!)",
             "required": false,
-            "value": "Alfa"
+            "value": "Laçin Eke YouTube"
         }, 
     "SUDO": {
-            "description": "Add superuser to this bot",
+            "description": "Yapay zekanıza superuser yetkisi veriniz. (Bilmiyorsanız boş bırakınız!)",
             "required": false
         },
     "NORMAL": {
-            "description": "Use Fancy Templayes Rather Than Normal Messages",
+            "description": "Normal Mesajlar Yerine Süslü Şablonlar Kullanın.",
             "required": false
         },
     "ADVER_URL": {
-            "description": "Adplay Target Url",
+            "description": "Hedef URL'yi göster.",
             "required": false
         },
     "ADVER": {
-            "description": "Adplay Text",
+            "description": "Reklam metni.",
             "required": false
         },
     "ALIVE_IMAGE": {
-            "description": "Set Alive Message Image",
+            "description": "Alive resimli mesajı ayarla. telegra.ph sitesinden yapabilirsiniz.",
             "required": false
         },
 	"ALIVE_MESS": {
-            "description": "Set Alive Message. (leave it if you Wish to use the default)",
+            "description": "Alive mesajı ayarla. (Bilmiyorsanız boş bırakınız.)",
             "required": false
         }, 
 	"OWNER_MESS": {
-            "description": "Set Owner message. (leave it if you Wish to use the default)",
+            "description": "Kurucu mesajını ayarlayın. (Bilmiyorsanız boş bırakınız.)",
             "required": false
         }, 
     "LISTICON": {
-            "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
+            "description": "menüde görünecek küçük logo veya simge (leave it if you Wish to use the default)",
             "required": false,
-            "value": "✩"
+            "value": "λ★"
         },
     "WATERMARK": {
-            "description": "watermark for the bot (leave it if you Wish to use the default)",
+            "description": "Yapay zeka için filigran (Bilmiyorsanız boş bırakınız.)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "Laçin Eke YouTube"
         },
     "BOTNAME": {
-            "description": "Name of The BOT (leave it if you Wish to use the default)",
+            "description": "Yapay zeka adı (Bilmiyorsanız boş bırakınız.)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "Laçin Eke YouTube"
         },
     "ICON": {
-            "description": "Icon to appear in menu (leave it if you Wish to use the default)",
+            "description": "Menüde görünecek simge (Bilmiyorsanız boş bırakınız.)",
             "required": false,
-            "value": "✩"
+            "value": "λ★"
         },
     "MAIL": {
-            "description": "Premium user number (leave it if you Wish to use the default)",
+            "description": "Premium kullanıcı numarası. (Bilmiyorsanız boş bırakınız.)",
             "required": false,
             "value": "AlienAlfa.YT@gmail.com"
         },
     "YOUTUBE": {
-            "description": "Youtube Channel Link (leave it if you dont have one)",
+            "description": "Youtube Kanal Linki/Bağlantısı (Yok ise boş bırakınız.)",
             "required": false,
-            "value": "https://youtube.com/c/alienalfa"
+            "value": "https://youtube.com/c/LacinEke"
         },
     "GITHUB": {
-            "description": "Your Github Account URL (leave it if you dont have one)",
+            "description": "GitHub kullanıcı adınız URL olarak (Bilmiyorsanız boş bırakınız.)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/"
+            "value": "https://github.com/EkeLachin/"
         },
     "INSTAGRAM": {
-            "description": "Your Instagram Id URL (leave it if you dont have one)",
+            "description": "İnstagram kullanıcı adınız URL olarak (Bilmiyorsanız boş bırakınız.)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://www.instagram.com/Lachin.Eke/"
         },
     "NAME": {
-            "description": "Owner Name (leave it if you Wish to use the default)",
+            "description": "Kurucu Adı (Bilmiyorsanız boş bırakınız.)",
             "required": false,
-            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
+            "value": "Laçin Eke YouTube"
         },
     "FOOTER": {
-            "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
+            "description": "Bot İçin Altbilgi Metni (Bilmiyorsanız boş bırakınız.)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "Laçin Eke YouTube"
         },
     "IMAGE": {
-            "description": "Main Image For The Bot (leave it if you Wish to use the default)",
+            "description": "Bot için ana resim (Bilmiyorsanız boş bırakınız.)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "https://telegra.ph/file/c6b854dc282340981c3a2.jpg"
         },
     "IMAGE2": {
-            "description": "Image For The Bot (leave it if you Wish to use the default)",
+            "description": "Yapay zeka için resim (Bilmiyorsanız boş bırakınız.)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "https://telegra.ph/file/c6b854dc282340981c3a2.jpg"
         },
     "BUTTONURL_LINK1": {
-            "description": "URL Button Id/Link (leave it if you Wish to use the default)",
+            "description": "URL butonu İD Link/Bağlantı (Bilmiyorsanız boş bırakınız.)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://www.instagram.com/Lachin.Eke/"
         },
     "BUTTONURL_LINK2": {
-            "description": "Second URL Button Id/Link (leave it if you Wish to use the default)",
+            "description": "İkinci URL Butonu İD Link/Bağlantı (Bilmiyorsanız boş bırakınız.)",
             "required": false,
-            "value": "https://youtube.com/c/alienalfa"
+            "value": "https://youtube.com/c/LacinEke"
         },
     "BUTTONURL_OPTION1": {
-            "description": "URL Button Name (leave it if you Wish to use the default:Instagram)",
+            "description": "URL Buton adı (Bilmiyorsanız boş bırakınız.)",
             "required": false,
             "value": "ɪɴꜱᴛᴀɢʀᴀᴍ"
         },
     "BUTTONURL_OPTION2": {
-            "description": "Second URL Button Name (leave it if you Wish to use the default:YouTube)",
+            "description": "İkinci URl buton adı (Bilmiyorsanız boş bırakınız.)",
             "required": false,
             "value": "ʏᴏᴜᴛᴜʙᴇ"
         },
     "LIST_HEAD": {
-            "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
+            "description": "Liste Menüsü İçin Hedding Mesajı (leave it if you Wish to use the default)",
             "required": false,
-            "value": "--"
+            "value": "λ★"
         },
     "LIST_MESSAGE": {
-            "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
+            "description": "Altbilgi Mesajı için Menü Listesi (leave it if you Wish to use the default)",
             "required": false,
             "value": "ʟɪꜱᴛ ᴍᴇɴᴜ"
         },
     "MENU_HEAD": {
             "description": "Main Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
             "required": false,
-            "value": "--"
+            "value": "λ★"
         },
     "MENU_MESSAGE": {
             "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
