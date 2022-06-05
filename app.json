@@ -152,7 +152,7 @@
             "value": "λ★"
         },
     "MENU_MESSAGE": {
-            "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
+            "description": "Ana Altbilgi Ana Menüde Gösterilecek Mesaj (çalışması için .menu yazınız) (Bilmiyorsanız boş bırakınız.)",
             "required": false,
             "value": "▆ ▇ █ 𝔐𝔢𝔫𝔲 𝔏𝔦𝔰𝔱𝔢𝔰𝔦 █ ▇ ▆"
         },
@@ -161,11 +161,11 @@
             "required": true
         },
     "HEROKU_API": {
-            "description": "ZORUNLU! HEROKU_APİ KEY'İNİZİ GİRİNİZ AMA KİMSEYE PAYLAŞMAYINIZ!",
+            "description": "ZORUNLU! HEROKU_APİ KEY'İNİZİ GİRİNİZ AMA KİMSEYE PAYLAŞMAYINIZ! ZORUNLUDUR İZLE https://youtu.be/0JzXCTX-9yY",
             "required": true
         },
     "SESSION_ID": {
-            "description": "Add your Session ID here you got from Your Bot",
+            "description": "Sizin numaranızdan aldığınız Oturum Kimliğinizi buraya ekleyin",
             "required": true
         },
      
