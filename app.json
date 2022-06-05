@@ -137,31 +137,31 @@
             "value": "ʏᴏᴜᴛᴜʙᴇ"
         },
     "LIST_HEAD": {
-            "description": "Liste Menüsü İçin Hedding Mesajı (leave it if you Wish to use the default)",
+            "description": "Liste Menüsü İçin Hedding Mesajı (Bilmiyorsanız boş bırakınız.)",
             "required": false,
             "value": "λ★"
         },
     "LIST_MESSAGE": {
-            "description": "Altbilgi Mesajı için Menü Listesi (leave it if you Wish to use the default)",
+            "description": "Altbilgi Mesajı için Menü Listesi (Bilmiyorsanız boş bırakınız.)",
             "required": false,
-            "value": "ʟɪꜱᴛ ᴍᴇɴᴜ"
+            "value": "▆ ▇ █ 𝔐𝔢𝔫𝔲 𝔏𝔦𝔰𝔱𝔢𝔰𝔦 █ ▇ ▆"
         },
     "MENU_HEAD": {
-            "description": "Main Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
+            "description": "Ana Menüde Gösterilecek Ana Mesaj (çalışması için .menu yazınız) (Bilmiyorsanız boş bırakınız.)",
             "required": false,
             "value": "λ★"
         },
     "MENU_MESSAGE": {
             "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ɪɴꜰᴏ ᴍᴇɴᴜ"
+            "value": "▆ ▇ █ 𝔐𝔢𝔫𝔲 𝔏𝔦𝔰𝔱𝔢𝔰𝔦 █ ▇ ▆"
         },
     "APP_NAME": {
-            "description": "Heroku App name to manage the worker (you canot use restart if u dont fill thsi and HEROKU_API)",
+            "description": "ZORUNLU! EN YUKARIDA VERDİĞİNİZ UYGULAMA ADINI BURAYADA AYNI ŞEKİLDE YAZINIZ!",
             "required": true
         },
     "HEROKU_API": {
-            "description": "Heroku API key for managing the worker (You canot use restart if u dont fill thsi and APP_NAME)",
+            "description": "ZORUNLU! HEROKU_APİ KEY'İNİZİ GİRİNİZ AMA KİMSEYE PAYLAŞMAYINIZ!",
             "required": true
         },
     "SESSION_ID": {
