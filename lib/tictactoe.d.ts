@@ -22,11 +22,11 @@
    * SOFTWARE.
 */
 export declare class TicTacToe {
-    /* X PlayerName */
+    /* X OyuncuAdı */
     playerX: string;
-    /* Y PlayerName */
+    /* Y OyuncuAdı */
     playerY: string;
-    /* X if true, Y if false */
+    /* X eğer doğrusya, Y eğer yanlışsa */
     _currentTurn: boolean;
     _x: number;
     _y: number;
